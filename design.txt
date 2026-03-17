@@ -1,0 +1,36 @@
+HQ (Haiwen,“海问”) AI Consultation Platform - Project Brief
+Team: Group 13
+Module Code: ENT208TC
+1.Problem Statement: 
+Critical Gap in AI Enterprise Globalization & ESG Innovation Consultation
+As Chinese AI enterprises expand globally and pursue ESG innovation, traditional consulting cannot satisfy their urgent demand for professional advice and decision support, creating a gap that limits sustainable international growth.
+1.1 Urgency
+Traditional consulting is slow (3–6 months per project), expensive (hundreds of thousands to millions of RMB), and inefficient, creating barriers for SMEs and startups. Moreover, fast-changing AI technologies and global ESG regulations make traditional services unable to provide real-time insights, exposing firms to compliance risks.
+1.2 Affected Stakeholders
+Chinese AI enterprises: Both large firms and startups face challenges with global ESG rules and overseas market entry.
+Internal teams: ESG, international business, and technical staff lack accessible professional guidance tools.
+Global ESG ecosystem: Inadequate consulting slows the development of a sustainable global AI ecosystem and exposes Chinese AI firms to reputation and regulatory risks.
+Academic community: Students and faculty lack up-to-date industrial insights; the platform offers timely access to cutting-edge industry knowledge.
+2.Users: Target Segments & Characteristics
+Four core user groups with distinct traits and needs form the platform’s target audience, all focused on AI enterprise globalization and ESG practice:
+User Group	Characteristics	Core Needs
+1. Chinese AI Enterprise Management Teams	Mid-senior managers (CEO/CTO/ESG Director) with 5–15 years of experience; responsible for strategic decision-making, balancing business growth and ESG compliance	Concise, data-driven insights on market entry strategies, ESG risk assessment, and competitive analysis in target international markets; efficient, actionable recommendations integrable into corporate strategy
+2. ESG & International Business Teams	Specialized analysts/ international business developers with 2–8 years of experience; responsible for implementing ESG practices and executing global expansion plans	Detailed guidance on ESG reporting standards, cross-border data compliance, and local market cultural adaptation; workflow streamlining tools and real-time access to updated regulatory information
+3. AI Startup Teams	Founders and core team members of seed to Series A AI startups with global ambitions; limited operational and financial resources	Affordable, easily accessible consulting services; foundational guidance on ESG compliance, global market validation, and international investor requirement alignment
+4. University Faculty and Students	Industry-bound students (majoring in AI, business, ESG and related fields) and educators responsible for teaching the latest industrial knowledge and practical cases; rely on traditional, outdated information sources	A timely, cutting-edge information access channel for global AI industry trends and ESG practice cases; real-world industry data and case references for academic learning, research and teaching practice
+3.Solution:
+HQ (Haiwen) AI-Powered Self-Service Consultation Platform
+A vertical AI platform designed for Chinese AI companies’ globalization and ESG demands (similar to Alibaba’s AQ platform but for AI/ESG). It combines a fine-tuned LLM with specialized datasets (global ESG rules, AI market trends, cross-border practices) to offer real-time, personalized consulting and decision support.
+Cloud-based, scalable, cross-region accessible, and integrable with enterprise systems (CRM, ESG tools), it has two core modules:
+AI Consultation Chatbot: Natural-language Q&A for ESG compliance, market entry, and cross-border AI deployment, with instant data-driven responses.
+Case Study Library: Curated successful cases of Chinese AI firms’ globalization and ESG innovation, offering practical best practices.
+4.Success Metrics
+Five quantifiable metrics measuring adoption, value, function, viability, and documentation:
+4.1 User Engagement & Adoption: 30+ registered users in 8 weeks, proving market demand.
+4.2 User Validation & Satisfaction: 20+ user tests; average score ≥4.0/5.0, confirming user fit.
+4.3 Functional Completion: Full end-to-end functions for both core modules.
+4.4 External Support: ≥2 letters of interest from external organizations, validating commercial viability.
+4.5 Documentation Quality: Professional technical docs and user manuals, supporting knowledge transfer.
+5.Conclusion
+The HQ platform fills a key market gap for Chinese AI enterprises expanding globally and pursuing ESG goals. As a cost-effective self-service tool, it helps them navigate global markets and achieve sustainable growth. It also acts as an academic-industry bridge linking AI/ESG research with practice.
+The project matches ENT208TC’s focus on user-centered design, iterative validation, and professional documentation, giving the team real experience building market-ready AI & ESG digital products.
